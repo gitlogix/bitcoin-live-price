@@ -1,5 +1,5 @@
 {
-  "name": "bitcoinliveprice",
+  "name": "bitcoin-live-price",
   "version": "1.0.0",
   "description": "A simple nextJs based app to show live BTC prices in USD, GBP and EUR",
   "main": "pages/index.js",
