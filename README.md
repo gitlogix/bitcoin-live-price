@@ -1,4 +1,4 @@
-# bitcoinliveprice
+# bitcoin-live-price
 A simple nextJs based app to show live BTC prices in USD, GBP and EUR
 
 
